@@ -15,7 +15,7 @@ public class ApigeeTestApplication {
 	
 	@GetMapping("/")
 	public String message() {
-		return "Message";
+		return "Message1";
 	}
 
 }
